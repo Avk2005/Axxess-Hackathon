@@ -6,6 +6,8 @@
 
 This project demonstrates how modern AI agents can collaborate, reason, and orchestrate decisions in a mission-based simulation environment. It integrates multimodal AI, distributed agent communication, real-time data processing, and scalable cloud deployment into a unified system.
 
+DevPost Link: https://devpost.com/software/medvisor-5dclk8
+
 ---
 
 ## 🎯 Project Overview
